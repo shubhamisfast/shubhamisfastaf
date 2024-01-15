@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhamisfastaf
+- 👋 Hi, I’m Shubham Goswami
 - 👀 I’m interested in web designing
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborator on web development projects
