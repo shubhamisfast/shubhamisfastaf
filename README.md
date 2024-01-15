@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhamisfastaf
 - 👀 I’m interested in web designing
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborator on web development projects
 - 📫 How to reach me:goswamiabhishake2004@gmail.com
 - Instagram : https://instagram.com/shubhamisfastaf?igshid=OGQ5ZDc2ODk2ZA
 
